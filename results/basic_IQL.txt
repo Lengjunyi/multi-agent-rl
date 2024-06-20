@@ -1,0 +1,893 @@
+Using device: cuda:0
+initial actions tensor([0]) tensor([1])
+we got  tensor(1143.2080, device='cuda:0') total reward
+actions tensor([2004., 1996.]) 1900.0
+tensor(1143.2080, device='cuda:0') tensor([ 1.0000,  2.0000,  1.0000,  7.0000,  1.0000, 10.0000,  1.0000,  4.0000,
+         1.0000,  8.0000,  1.0000,  3.0000,  0.1750,  1.0000,  6.0000,  0.4860,
+         1.0000,  3.0000,  0.1944,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([1.0000, 4.0000, 1.0000, 9.0000, 1.0000, 3.0000, 1.0000, 7.0000, 1.0000,
+        1.0000, 1.0000, 4.0000, 0.3600, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([0]) tensor([0]) tensor(1.2345, device='cuda:0') tensor([6.4612, 6.8235], device='cuda:0', grad_fn=<ViewBackward0>) tensor([0.5147, 0.2565], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor([0]) tensor([0])
+we got  tensor(1217.2024, device='cuda:0') total reward
+actions tensor([1984., 2016.]) 1805.0
+tensor(1217.2024, device='cuda:0') tensor([1.0000, 3.0000, 1.0000, 7.0000, 1.0000, 1.0000, 1.0000, 5.0000, 1.0000,
+        3.0000, 1.0000, 2.0000, 0.1800, 1.0000, 6.0000, 0.4320, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([1.0000, 3.0000, 1.0000, 4.0000, 1.0000, 2.0000, 1.0000, 2.0000, 1.0000,
+        3.0000, 1.0000, 6.0000, 0.3543, 1.0000, 6.0000, 0.4374, 1.0000, 6.0000,
+        0.4860, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([0]) tensor([0]) tensor(0.2700, device='cuda:0') tensor([7.5596, 7.8712], device='cuda:0', grad_fn=<ViewBackward0>) tensor([-0.9828, -1.3585], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor([0]) tensor(1, device='cuda:0')
+we got  tensor(1166.5182, device='cuda:0') total reward
+actions tensor([2103., 1897.]) 1714.7499999999998
+tensor(1166.5182, device='cuda:0') tensor([1.0000, 1.0000, 1.0000, 2.0000, 1.0000, 4.0000, 1.0000, 3.0000, 1.0000,
+        9.0000, 1.0000, 3.0000, 0.2700, 1.0000, 4.0000, 0.2880, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([1., 1., 0., 0., 1., 3., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([0]) tensor([1]) tensor(0., device='cuda:0') tensor([7.6136, 7.7984], device='cuda:0', grad_fn=<ViewBackward0>) tensor([25.4570, 26.7270], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor([1]) tensor([1])
+we got  tensor(1204.0441, device='cuda:0') total reward
+actions tensor([2159., 1841.]) 1629.0124999999998
+tensor(1204.0441, device='cuda:0') tensor([ 1.0000,  1.0000,  1.0000,  5.0000,  1.0000,  8.0000,  1.0000,  8.0000,
+         1.0000, 10.0000,  1.0000, 10.0000,  0.5249,  1.0000, 10.0000,  0.7290,
+         1.0000,  4.0000,  0.3240,  1.0000,  4.0000,  0.2880,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000,  1.0000,  1.0000,  4.0000,  1.0000,  1.0000,  1.0000,  2.0000,
+         1.0000,  4.0000,  1.0000,  6.0000,  0.2870,  1.0000,  4.0000,  0.2126,
+         1.0000,  6.0000,  0.2834,  1.0000,  6.0000,  0.3543,  1.0000, 10.0000,
+         0.5249,  1.0000, 10.0000,  0.8100], device='cuda:0') tensor([1]) tensor([0]) tensor(0.1826, device='cuda:0') tensor([6.3438, 6.3533], device='cuda:0', grad_fn=<ViewBackward0>) tensor([ 0.8999, -1.1107], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor([0]) tensor([1])
+we got  tensor(1178.0951, device='cuda:0') total reward
+actions tensor([2236., 1764.]) 1547.5618749999996
+tensor(1178.0951, device='cuda:0') tensor([ 1.0000,  9.0000,  1.0000,  6.0000,  1.0000,  1.0000,  1.0000,  2.0000,
+         1.0000,  1.0000,  1.0000,  3.0000,  0.2700,  1.0000, 10.0000,  0.7200,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000,  3.0000,  1.0000,  3.0000,  1.0000,  7.0000,  1.0000, 10.0000,
+         1.0000,  4.0000,  1.0000,  4.0000,  0.1913,  1.0000,  4.0000,  0.1701,
+         1.0000, 10.0000,  0.7290,  1.0000,  4.0000,  0.2592,  1.0000,  4.0000,
+         0.3240,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([0]) tensor([1]) tensor(0.8734, device='cuda:0') tensor([7.5034, 7.6704], device='cuda:0', grad_fn=<ViewBackward0>) tensor([0.9480, 0.7450], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor([0])
+we got  tensor(1116.9819, device='cuda:0') total reward
+actions tensor([2052., 1948.]) 1470.1837812499996
+tensor(1116.9819, device='cuda:0') tensor([ 1.0000,  1.0000,  1.0000,  1.0000,  1.0000,  5.0000,  1.0000,  2.0000,
+         1.0000,  1.0000,  1.0000, 10.0000,  0.4783,  1.0000,  4.0000,  0.1890,
+         1.0000,  6.0000,  0.4374,  1.0000, 10.0000,  0.5832,  1.0000, 10.0000,
+         0.8100,  1.0000, 10.0000,  0.9000], device='cuda:0') tensor([ 1.0000,  7.0000,  1.0000,  1.0000,  1.0000,  3.0000,  1.0000,  2.0000,
+         1.0000,  5.0000,  1.0000,  4.0000,  0.2100,  1.0000, 10.0000,  0.6561,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([1]) tensor([1]) tensor(-0.2000, device='cuda:0') tensor([6.9973, 7.3011], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.4157, 7.2382], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor([1]) tensor([1])
+we got  tensor(1276.9893, device='cuda:0') total reward
+actions tensor([2104., 1896.]) 1396.6745921874995
+tensor(1276.9893, device='cuda:0') tensor([1., 3., 1., 2., 1., 1., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([1., 2., 1., 3., 1., 1., 1., 2., 1., 4., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(0, device='cuda:0') tensor(0, device='cuda:0') tensor(0.6000, device='cuda:0') tensor([8.7843, 8.3718], device='cuda:0', grad_fn=<ViewBackward0>) tensor([6.3359, 6.0590], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor([1]) tensor([1])
+we got  tensor(1159.7858, device='cuda:0') total reward
+actions tensor([1883., 2117.]) 1326.8408625781244
+tensor(1159.7858, device='cuda:0') tensor([ 1.0000,  4.0000,  1.0000,  3.0000,  1.0000,  3.0000,  1.0000,  8.0000,
+         1.0000,  1.0000,  1.0000, 10.0000,  0.5314,  1.0000, 10.0000,  0.7290,
+         1.0000,  6.0000,  0.4860,  1.0000,  4.0000,  0.2880,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([1.0000, 2.0000, 1.0000, 5.0000, 1.0000, 5.0000, 1.0000, 1.0000, 1.0000,
+        9.0000, 1.0000, 2.0000, 0.1312, 1.0000, 6.0000, 0.4320, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([0]) tensor([0]) tensor(0.1531, device='cuda:0') tensor([6.8593, 7.1839], device='cuda:0', grad_fn=<ViewBackward0>) tensor([6.7420, 6.8078], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1167.6754, device='cuda:0') total reward
+actions tensor([1940., 2060.]) 1260.4988194492182
+tensor(1167.6754, device='cuda:0') tensor([ 1.0000,  1.0000,  1.0000,  3.0000,  1.0000,  2.0000,  1.0000,  2.0000,
+         1.0000,  2.0000,  1.0000,  4.0000,  0.1722,  1.0000,  4.0000,  0.1377,
+         1.0000,  6.0000,  0.3543,  1.0000, 10.0000,  0.6561,  1.0000,  4.0000,
+         0.2592,  1.0000, 10.0000,  0.9000], device='cuda:0') tensor([1.0000, 1.0000, 1.0000, 1.0000, 1.0000, 3.0000, 1.0000, 4.0000, 1.0000,
+        4.0000, 1.0000, 2.0000, 0.1458, 1.0000, 6.0000, 0.3888, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(0, device='cuda:0') tensor(0.0592, device='cuda:0') tensor([7.0687, 7.3839], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.2244, 7.1923], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1141.5579, device='cuda:0') total reward
+actions tensor([2051., 1949.]) 1197.4738784767571
+tensor(1141.5579, device='cuda:0') tensor([1., 1., 1., 1., 1., 2., 1., 3., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([1., 2., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([1]) tensor([0]) tensor(0.4000, device='cuda:0') tensor([8.7288, 8.3648], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.2131, 6.6349], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor([1]) tensor(0, device='cuda:0')
+we got  tensor(1204.1857, device='cuda:0') total reward
+actions tensor([2144., 1856.]) 1137.600184552919
+tensor(1204.1857, device='cuda:0') tensor([1.0000, 3.0000, 1.0000, 6.0000, 1.0000, 1.0000, 1.0000, 4.0000, 1.0000,
+        1.0000, 1.0000, 3.0000, 0.1435, 1.0000, 6.0000, 0.2296, 1.0000, 3.0000,
+        0.1594, 1.0000, 4.0000, 0.2100, 1.0000, 4.0000, 0.2916, 1.0000, 3.0000,
+        0.2700], device='cuda:0') tensor([1., 2., 1., 1., 1., 5., 1., 8., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(1, device='cuda:0') tensor(0, device='cuda:0') tensor(-0.2000, device='cuda:0') tensor([7.7942, 7.9185], device='cuda:0', grad_fn=<ViewBackward0>) tensor([10.4640,  9.9878], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor([1]) tensor([0])
+we got  tensor(1158.2432, device='cuda:0') total reward
+actions tensor([1919., 2081.]) 1080.7201753252732
+tensor(1158.2432, device='cuda:0') tensor([1., 4., 1., 1., 1., 3., 1., 1., 1., 2., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([ 1.0000,  5.0000,  1.0000,  1.0000,  1.0000,  4.0000,  1.0000,  6.0000,
+         1.0000,  4.0000,  1.0000, 10.0000,  0.4252,  1.0000,  4.0000,  0.2333,
+         1.0000,  2.0000,  0.1296,  1.0000,  4.0000,  0.3240,  1.0000,  3.0000,
+         0.2700,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(0, device='cuda:0') tensor([0]) tensor(0.3000, device='cuda:0') tensor([8.3459, 8.0676], device='cuda:0', grad_fn=<ViewBackward0>) tensor([9.2672, 9.3737], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor([1])
+we got  tensor(1185.7466, device='cuda:0') total reward
+actions tensor([1896., 2104.]) 1026.6841665590093
+tensor(1185.7466, device='cuda:0') tensor([1., 1., 1., 2., 1., 2., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([1., 3., 0., 0., 1., 1., 1., 2., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(0, device='cuda:0') tensor([1]) tensor(0.5000, device='cuda:0') tensor([8.5049, 8.1828], device='cuda:0', grad_fn=<ViewBackward0>) tensor([8.8853, 8.4232], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor([1]) tensor(0, device='cuda:0')
+we got  tensor(1184.9932, device='cuda:0') total reward
+actions tensor([1758., 2242.]) 975.3499582310588
+tensor(1184.9932, device='cuda:0') tensor([ 1.0000,  1.0000,  1.0000,  3.0000,  1.0000,  8.0000,  1.0000,  3.0000,
+         1.0000,  2.0000,  1.0000,  6.0000,  0.3149,  1.0000,  6.0000,  0.4374,
+         1.0000, 10.0000,  0.5832,  1.0000,  4.0000,  0.3240,  1.0000, 10.0000,
+         0.6480,  1.0000,  6.0000,  0.4320], device='cuda:0') tensor([ 1.0000,  6.0000,  1.0000,  5.0000,  1.0000,  4.0000,  1.0000,  2.0000,
+         1.0000,  6.0000,  1.0000,  4.0000,  0.2362,  1.0000,  6.0000,  0.3149,
+         1.0000, 10.0000,  0.7200,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([0]) tensor(1, device='cuda:0') tensor(0.3149, device='cuda:0') tensor([6.2176, 6.2950], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.3231, 7.7371], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor([1]) tensor([1])
+we got  tensor(1314.2029, device='cuda:0') total reward
+actions tensor([2232., 1768.]) 926.5824603195059
+tensor(1314.2029, device='cuda:0') tensor([ 1.0000,  4.0000,  1.0000,  3.0000,  1.0000,  2.0000,  1.0000,  1.0000,
+         1.0000,  5.0000,  1.0000,  6.0000,  0.2551,  1.0000,  4.0000,  0.1890,
+         1.0000,  4.0000,  0.2333,  1.0000,  4.0000,  0.3240,  1.0000, 10.0000,
+         0.9000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000,  3.0000,  1.0000,  8.0000,  1.0000,  8.0000,  1.0000,  1.0000,
+         1.0000,  7.0000,  1.0000,  6.0000,  0.2325,  1.0000,  6.0000,  0.2066,
+         1.0000, 10.0000,  0.4252,  1.0000, 10.0000,  0.5832,  1.0000,  6.0000,
+         0.4860,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([1]) tensor([0]) tensor(-0.0299, device='cuda:0') tensor([7.5636, 7.5902], device='cuda:0', grad_fn=<ViewBackward0>) tensor([5.1355, 5.3009], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor([0]) tensor(0, device='cuda:0')
+we got  tensor(1220.9438, device='cuda:0') total reward
+actions tensor([2073., 1927.]) 880.2533373035305
+tensor(1220.9438, device='cuda:0') tensor([1.0000, 1.0000, 1.0000, 3.0000, 1.0000, 1.0000, 1.0000, 3.0000, 1.0000,
+        5.0000, 1.0000, 2.0000, 0.1440, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([ 1.,  2.,  1.,  3.,  1.,  5.,  1.,  5.,  1., 10.,  0.,  0.,  0.,  0.,
+         0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+       device='cuda:0') tensor(0, device='cuda:0') tensor(1, device='cuda:0') tensor(1.0160, device='cuda:0') tensor([9.2041, 8.7223], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.1596, 7.3069], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1211.9994, device='cuda:0') total reward
+actions tensor([2117., 1883.]) 836.240670438354
+tensor(1211.9994, device='cuda:0') tensor([ 1.0000,  7.0000,  1.0000,  4.0000,  1.0000,  7.0000,  1.0000,  2.0000,
+         1.0000,  5.0000,  1.0000, 10.0000,  0.5905,  1.0000, 10.0000,  0.8100,
+         1.0000, 10.0000,  0.6480,  1.0000,  6.0000,  0.4320,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([1.0000, 7.0000, 1.0000, 8.0000, 1.0000, 2.0000, 1.0000, 5.0000, 1.0000,
+        2.0000, 1.0000, 6.0000, 0.2551, 1.0000, 6.0000, 0.3149, 1.0000, 4.0000,
+        0.2624, 1.0000, 6.0000, 0.3499, 1.0000, 6.0000, 0.4320, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(0.1701, device='cuda:0') tensor([5.6453, 5.9184], device='cuda:0', grad_fn=<ViewBackward0>) tensor([6.1219, 6.2740], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor([1])
+we got  tensor(1282.6039, device='cuda:0') total reward
+actions tensor([1849., 2151.]) 794.4286369164362
+tensor(1282.6039, device='cuda:0') tensor([1.0000, 9.0000, 1.0000, 9.0000, 1.0000, 1.0000, 1.0000, 4.0000, 1.0000,
+        6.0000, 1.0000, 6.0000, 0.4320, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([1.0000, 5.0000, 1.0000, 2.0000, 1.0000, 5.0000, 1.0000, 4.0000, 1.0000,
+        1.0000, 1.0000, 2.0000, 0.1296, 1.0000, 4.0000, 0.2880, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([1]) tensor(1, device='cuda:0') tensor(0.4176, device='cuda:0') tensor([7.1100, 7.2021], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.5488, 7.7015], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1215.0330, device='cuda:0') total reward
+actions tensor([2001., 1999.]) 754.7072050706142
+tensor(1215.0330, device='cuda:0') tensor([1.0000, 3.0000, 1.0000, 4.0000, 1.0000, 4.0000, 1.0000, 2.0000, 1.0000,
+        1.0000, 1.0000, 3.0000, 0.1594, 1.0000, 6.0000, 0.3149, 1.0000, 3.0000,
+        0.2187, 1.0000, 4.0000, 0.2880, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([1.0000, 2.0000, 1.0000, 5.0000, 1.0000, 1.0000, 1.0000, 3.0000, 1.0000,
+        3.0000, 1.0000, 4.0000, 0.2916, 1.0000, 3.0000, 0.1944, 1.0000, 4.0000,
+        0.3240, 1.0000, 3.0000, 0.2160, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(0.3875, device='cuda:0') tensor([7.7749, 7.8053], device='cuda:0', grad_fn=<ViewBackward0>) tensor([8.1107, 8.1887], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1326.5364, device='cuda:0') total reward
+actions tensor([2003., 1997.]) 716.9718448170836
+tensor(1326.5364, device='cuda:0') tensor([1., 2., 0., 0., 1., 2., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([1., 5., 1., 2., 1., 2., 1., 6., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([1]) tensor(0, device='cuda:0') tensor(0.7600, device='cuda:0') tensor([8.2909, 7.7469], device='cuda:0', grad_fn=<ViewBackward0>) tensor([8.3261, 8.0281], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor([0])
+we got  tensor(1255.4929, device='cuda:0') total reward
+actions tensor([1871., 2129.]) 681.1232525762293
+tensor(1255.4929, device='cuda:0') tensor([1., 4., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([ 1., 10.,  1.,  1.,  1.,  1.,  1.,  3.,  1.,  1.,  0.,  0.,  0.,  0.,
+         0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+       device='cuda:0') tensor(0, device='cuda:0') tensor(0, device='cuda:0') tensor(1.4000, device='cuda:0') tensor([8.0878, 7.8528], device='cuda:0', grad_fn=<ViewBackward0>) tensor([8.2687, 8.0535], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1187.2382, device='cuda:0') total reward
+actions tensor([1821., 2179.]) 647.0670899474178
+tensor(1187.2382, device='cuda:0') tensor([1.0000, 1.0000, 1.0000, 1.0000, 1.0000, 8.0000, 1.0000, 2.0000, 1.0000,
+        2.0000, 1.0000, 3.0000, 0.1771, 1.0000, 3.0000, 0.1968, 1.0000, 4.0000,
+        0.2592, 1.0000, 4.0000, 0.2880, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([ 1.0000,  2.0000,  1.0000,  5.0000,  1.0000,  6.0000,  1.0000,  2.0000,
+         1.0000,  3.0000,  1.0000, 10.0000,  0.7290,  1.0000,  4.0000,  0.2592,
+         1.0000,  2.0000,  0.1440,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(0., device='cuda:0') tensor([7.8393, 7.9383], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.4211, 7.6810], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1215.7788, device='cuda:0') total reward
+actions tensor([1760., 2240.]) 614.7137354500469
+tensor(1215.7788, device='cuda:0') tensor([1., 1., 1., 3., 1., 3., 0., 0., 1., 2., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([1., 1., 1., 4., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(0, device='cuda:0') tensor([0]) tensor(0.5600, device='cuda:0') tensor([8.5317, 7.9957], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.7854, 7.4695], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor([1]) tensor(0, device='cuda:0')
+we got  tensor(1299.0641, device='cuda:0') total reward
+actions tensor([2359., 1641.]) 583.9780486775445
+tensor(1299.0641, device='cuda:0') tensor([ 1.0000, 10.0000,  1.0000,  9.0000,  1.0000,  2.0000,  1.0000,  5.0000,
+         1.0000,  1.0000,  1.0000, 10.0000,  0.5832,  1.0000, 10.0000,  0.8100,
+         1.0000,  4.0000,  0.2592,  1.0000,  4.0000,  0.3600,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000,  2.0000,  1.0000,  7.0000,  1.0000,  8.0000,  1.0000,  4.0000,
+         1.0000,  2.0000,  1.0000, 10.0000,  0.5832,  1.0000, 10.0000,  0.9000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor([1]) tensor(0.5832, device='cuda:0') tensor([5.4718, 6.3007], device='cuda:0', grad_fn=<ViewBackward0>) tensor([6.0989, 6.7232], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1207.6930, device='cuda:0') total reward
+actions tensor([1843., 2157.]) 554.7791462436674
+tensor(1207.6930, device='cuda:0') tensor([1., 2., 1., 3., 1., 3., 1., 2., 1., 1., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([1., 3., 0., 0., 1., 1., 1., 1., 1., 2., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(1, device='cuda:0') tensor([1]) tensor(0.7800, device='cuda:0') tensor([8.3559, 8.4169], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.8471, 7.6428], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1224.8680, device='cuda:0') total reward
+actions tensor([2141., 1859.]) 527.040188931484
+tensor(1224.8680, device='cuda:0') tensor([ 1.0000,  3.0000,  1.0000,  4.0000,  1.0000,  2.0000,  1.0000,  5.0000,
+         1.0000,  7.0000,  1.0000, 10.0000,  0.3826,  1.0000,  4.0000,  0.2624,
+         1.0000,  4.0000,  0.2100,  1.0000, 10.0000,  0.5832,  1.0000,  6.0000,
+         0.3888,  1.0000,  4.0000,  0.3600], device='cuda:0') tensor([ 1.0000,  5.0000,  1.0000,  5.0000,  1.0000,  2.0000,  1.0000,  1.0000,
+         1.0000,  2.0000,  1.0000,  6.0000,  0.3189,  1.0000,  6.0000,  0.2834,
+         1.0000,  6.0000,  0.3543,  1.0000,  4.0000,  0.2592,  1.0000, 10.0000,
+         0.9000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(0., device='cuda:0') tensor([5.2566, 5.5643], device='cuda:0', grad_fn=<ViewBackward0>) tensor([5.8759, 6.0180], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor([0])
+we got  tensor(1249.9927, device='cuda:0') total reward
+actions tensor([1885., 2115.]) 500.6881794849097
+tensor(1249.9927, device='cuda:0') tensor([1.0000, 1.0000, 1.0000, 4.0000, 1.0000, 7.0000, 1.0000, 1.0000, 1.0000,
+        2.0000, 1.0000, 2.0000, 0.1296, 1.0000, 3.0000, 0.2160, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([ 1.0000, 10.0000,  1.0000,  2.0000,  1.0000,  1.0000,  1.0000,  7.0000,
+         1.0000,  1.0000,  1.0000,  4.0000,  0.2592,  1.0000,  3.0000,  0.2160,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([1]) tensor(1, device='cuda:0') tensor(0.8100, device='cuda:0') tensor([8.2656, 7.7596], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.4594, 7.4815], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor([1]) tensor(0, device='cuda:0')
+we got  tensor(1237.4991, device='cuda:0') total reward
+actions tensor([1815., 2185.]) 475.65377051066423
+tensor(1237.4991, device='cuda:0') tensor([ 1.0000,  3.0000,  1.0000,  1.0000,  1.0000,  5.0000,  1.0000,  2.0000,
+         1.0000,  6.0000,  1.0000, 10.0000,  0.5905,  1.0000,  4.0000,  0.1890,
+         1.0000, 10.0000,  0.7290,  1.0000,  4.0000,  0.2333,  1.0000, 10.0000,
+         0.6480,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000, 10.0000,  1.0000,  5.0000,  1.0000,  3.0000,  1.0000,  4.0000,
+         1.0000,  7.0000,  1.0000,  6.0000,  0.5400,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(0.8000, device='cuda:0') tensor([6.1495, 6.1831], device='cuda:0', grad_fn=<ViewBackward0>) tensor([6.2736, 6.4061], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1216.0562, device='cuda:0') total reward
+actions tensor([1737., 2263.]) 451.87108198513096
+tensor(1216.0562, device='cuda:0') tensor([ 1.0000,  3.0000,  1.0000,  5.0000,  1.0000,  1.0000,  1.0000,  3.0000,
+         1.0000,  2.0000,  1.0000,  4.0000,  0.1701,  1.0000, 10.0000,  0.4724,
+         1.0000,  4.0000,  0.2100,  1.0000, 10.0000,  0.5832,  1.0000,  6.0000,
+         0.4320,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000,  7.0000,  1.0000,  3.0000,  1.0000,  3.0000,  1.0000,  8.0000,
+         1.0000,  2.0000,  1.0000,  4.0000,  0.1913,  1.0000,  6.0000,  0.2551,
+         1.0000, 10.0000,  0.4724,  1.0000, 10.0000,  0.5249,  1.0000,  4.0000,
+         0.2333,  1.0000, 10.0000,  0.6480], device='cuda:0') tensor(1, device='cuda:0') tensor([1]) tensor(-0.2000, device='cuda:0') tensor([6.4763, 6.5185], device='cuda:0', grad_fn=<ViewBackward0>) tensor([4.0781, 4.2275], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1290.2350, device='cuda:0') total reward
+actions tensor([2154., 1846.]) 429.2775278858744
+tensor(1290.2350, device='cuda:0') tensor([ 1.0000,  2.0000,  1.0000,  4.0000,  1.0000,  3.0000,  1.0000,  4.0000,
+         1.0000, 10.0000,  1.0000,  4.0000,  0.1890,  1.0000,  4.0000,  0.2100,
+         1.0000,  4.0000,  0.2592,  1.0000,  2.0000,  0.1800,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([1.0000, 8.0000, 1.0000, 7.0000, 1.0000, 4.0000, 1.0000, 3.0000, 1.0000,
+        5.0000, 1.0000, 4.0000, 0.2333, 1.0000, 2.0000, 0.1458, 1.0000, 2.0000,
+        0.1296, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor(0, device='cuda:0') tensor([1]) tensor(0.4160, device='cuda:0') tensor([6.5498, 6.4120], device='cuda:0', grad_fn=<ViewBackward0>) tensor([6.9180, 7.0578], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor([1])
+we got  tensor(1151.9581, device='cuda:0') total reward
+actions tensor([1700., 2300.]) 407.8136514915807
+tensor(1151.9581, device='cuda:0') tensor([ 1.0000,  1.0000,  1.0000,  5.0000,  1.0000,  9.0000,  1.0000,  4.0000,
+         1.0000,  6.0000,  1.0000,  6.0000,  0.2551,  1.0000, 10.0000,  0.6561,
+         1.0000,  4.0000,  0.2592,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000,  1.0000,  1.0000,  5.0000,  1.0000,  7.0000,  1.0000,  9.0000,
+         1.0000,  8.0000,  1.0000, 10.0000,  0.5832,  1.0000,  4.0000,  0.2592,
+         1.0000,  4.0000,  0.2880,  1.0000,  4.0000,  0.3600,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([1]) tensor([0]) tensor(0., device='cuda:0') tensor([5.6395, 6.0358], device='cuda:0', grad_fn=<ViewBackward0>) tensor([5.0466, 5.5369], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1289.4869, device='cuda:0') total reward
+actions tensor([2058., 1942.]) 387.42296891700164
+tensor(1289.4869, device='cuda:0') tensor([ 1.0000,  9.0000,  1.0000,  7.0000,  1.0000,  1.0000,  1.0000,  2.0000,
+         1.0000,  7.0000,  1.0000,  6.0000,  0.1674,  1.0000, 10.0000,  0.3874,
+         1.0000, 10.0000,  0.5832,  1.0000, 10.0000,  0.6480,  1.0000,  4.0000,
+         0.2880,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([1.0000, 3.0000, 1.0000, 1.0000, 1.0000, 3.0000, 1.0000, 5.0000, 1.0000,
+        2.0000, 1.0000, 4.0000, 0.1701, 1.0000, 6.0000, 0.2834, 1.0000, 4.0000,
+        0.2100, 1.0000, 6.0000, 0.3499, 1.0000, 6.0000, 0.3888, 1.0000, 6.0000,
+        0.4320], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(0., device='cuda:0') tensor([4.2075, 4.3130], device='cuda:0', grad_fn=<ViewBackward0>) tensor([5.8583, 5.9634], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1277.5946, device='cuda:0') total reward
+actions tensor([2100., 1900.]) 368.05182047115153
+tensor(1277.5946, device='cuda:0') tensor([ 1.0000,  1.0000,  1.0000,  6.0000,  1.0000,  4.0000,  1.0000,  6.0000,
+         1.0000,  1.0000,  1.0000,  4.0000,  0.1913,  1.0000, 10.0000,  0.6561,
+         1.0000, 10.0000,  0.5249,  1.0000,  6.0000,  0.3499,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000,  2.0000,  1.0000,  6.0000,  1.0000,  8.0000,  1.0000,  7.0000,
+         1.0000, 10.0000,  1.0000,  4.0000,  0.2880,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor([0]) tensor(0.8873, device='cuda:0') tensor([5.8380, 6.5624], device='cuda:0', grad_fn=<ViewBackward0>) tensor([5.7579, 6.1947], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1147.6829, device='cuda:0') total reward
+actions tensor([1708., 2292.]) 349.649229447594
+tensor(1147.6829, device='cuda:0') tensor([1., 2., 1., 2., 1., 2., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([1., 4., 1., 3., 1., 2., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(0, device='cuda:0') tensor(0, device='cuda:0') tensor(0.6000, device='cuda:0') tensor([7.7340, 7.5083], device='cuda:0', grad_fn=<ViewBackward0>) tensor([8.0944, 7.8863], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1203.9937, device='cuda:0') total reward
+actions tensor([1491., 2509.]) 332.16676797521427
+tensor(1203.9937, device='cuda:0') tensor([1.0000, 2.0000, 1.0000, 2.0000, 1.0000, 5.0000, 1.0000, 1.0000, 1.0000,
+        6.0000, 1.0000, 4.0000, 0.2333, 1.0000, 4.0000, 0.2592, 1.0000, 6.0000,
+        0.5400, 1.0000, 6.0000, 0.4320, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([ 1.0000,  1.0000,  1.0000,  3.0000,  1.0000,  5.0000,  1.0000,  2.0000,
+         1.0000,  6.0000,  1.0000, 10.0000,  0.6480,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([1]) tensor(1, device='cuda:0') tensor(0.7387, device='cuda:0') tensor([7.1847, 7.5796], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.7008, 7.8215], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1260.7726, device='cuda:0') total reward
+actions tensor([1920., 2080.]) 315.55842957645353
+tensor(1260.7726, device='cuda:0') tensor([ 1.0000,  3.0000,  1.0000,  4.0000,  1.0000, 10.0000,  1.0000,  3.0000,
+         1.0000,  4.0000,  1.0000,  4.0000,  0.2880,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000,  5.0000,  1.0000,  2.0000,  1.0000,  2.0000,  1.0000,  2.0000,
+         1.0000,  7.0000,  1.0000, 10.0000,  0.6480,  1.0000,  4.0000,  0.3240,
+         1.0000, 10.0000,  0.7200,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor([1]) tensor(0.9396, device='cuda:0') tensor([7.1501, 7.2247], device='cuda:0', grad_fn=<ViewBackward0>) tensor([6.6629, 6.8255], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1262.9886, device='cuda:0') total reward
+actions tensor([2130., 1870.]) 299.78050809763084
+tensor(1262.9886, device='cuda:0') tensor([1., 3., 1., 3., 1., 2., 0., 0., 1., 1., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([1.0000, 3.0000, 1.0000, 2.0000, 1.0000, 1.0000, 1.0000, 1.0000, 1.0000,
+        1.0000, 1.0000, 2.0000, 0.1800, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor(0, device='cuda:0') tensor(0, device='cuda:0') tensor(0.6230, device='cuda:0') tensor([7.8804, 7.6423], device='cuda:0', grad_fn=<ViewBackward0>) tensor([8.0025, 7.8177], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1269.5240, device='cuda:0') total reward
+actions tensor([2107., 1893.]) 284.7914826927493
+tensor(1269.5240, device='cuda:0') tensor([ 1.0000,  9.0000,  1.0000,  2.0000,  1.0000,  2.0000,  1.0000,  5.0000,
+         1.0000, 10.0000,  1.0000,  6.0000,  0.4320,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([1., 3., 1., 8., 1., 6., 1., 7., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(1, device='cuda:0') tensor([0]) tensor(1.1400, device='cuda:0') tensor([7.0183, 7.1409], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.3232, 7.3547], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1151.0750, device='cuda:0') total reward
+actions tensor([1772., 2228.]) 270.5519085581118
+tensor(1151.0750, device='cuda:0') tensor([ 1.0000,  6.0000,  1.0000,  4.0000,  1.0000,  5.0000,  1.0000,  5.0000,
+         1.0000,  1.0000,  1.0000,  4.0000,  0.2362,  1.0000, 10.0000,  0.5832,
+         1.0000,  2.0000,  0.1620,  1.0000, 10.0000,  0.6480,  1.0000,  6.0000,
+         0.5400,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([1., 2., 1., 2., 1., 4., 1., 6., 1., 5., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(1, device='cuda:0') tensor(0, device='cuda:0') tensor(1.1426, device='cuda:0') tensor([5.6110, 5.7598], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.9317, 7.8352], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor([0]) tensor(0, device='cuda:0')
+we got  tensor(1269.6172, device='cuda:0') total reward
+actions tensor([2338., 1662.]) 257.02431313020617
+tensor(1269.6172, device='cuda:0') tensor([1., 2., 1., 1., 1., 1., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([1., 3., 1., 3., 0., 0., 1., 2., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(0, device='cuda:0') tensor(0, device='cuda:0') tensor(0.5000, device='cuda:0') tensor([7.7812, 7.5745], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.9626, 7.6491], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1217.9186, device='cuda:0') total reward
+actions tensor([1775., 2225.]) 244.17309747369586
+tensor(1217.9186, device='cuda:0') tensor([1.0000, 5.0000, 1.0000, 8.0000, 1.0000, 1.0000, 1.0000, 3.0000, 1.0000,
+        1.0000, 1.0000, 2.0000, 0.1440, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([ 1.,  7.,  1.,  9.,  1., 10.,  1.,  1.,  1.,  4.,  0.,  0.,  0.,  0.,
+         0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+       device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(0.8000, device='cuda:0') tensor([7.9258, 8.0822], device='cuda:0', grad_fn=<ViewBackward0>) tensor([6.6454, 6.6944], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1207.4636, device='cuda:0') total reward
+actions tensor([1761., 2239.]) 231.96444260001107
+tensor(1207.4636, device='cuda:0') tensor([1.0000, 6.0000, 1.0000, 5.0000, 1.0000, 4.0000, 1.0000, 2.0000, 1.0000,
+        2.0000, 1.0000, 6.0000, 0.3149, 1.0000, 4.0000, 0.2333, 1.0000, 4.0000,
+        0.2592, 1.0000, 6.0000, 0.5400, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([ 1.0000, 10.0000,  1.0000, 10.0000,  1.0000,  8.0000,  1.0000,  7.0000,
+         1.0000,  5.0000,  1.0000,  4.0000,  0.2362,  1.0000, 10.0000,  0.5249,
+         1.0000, 10.0000,  0.5832,  1.0000,  4.0000,  0.2592,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(1.2413, device='cuda:0') tensor([6.4679, 6.9963], device='cuda:0', grad_fn=<ViewBackward0>) tensor([3.4133, 3.5993], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1228.6213, device='cuda:0') total reward
+actions tensor([1884., 2116.]) 220.36622047001052
+tensor(1228.6213, device='cuda:0') tensor([1.0000, 3.0000, 1.0000, 5.0000, 1.0000, 2.0000, 1.0000, 6.0000, 1.0000,
+        2.0000, 1.0000, 3.0000, 0.1750, 1.0000, 4.0000, 0.2592, 1.0000, 3.0000,
+        0.2160, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([ 1.0000,  2.0000,  1.0000,  6.0000,  1.0000,  3.0000,  1.0000,  6.0000,
+         1.0000,  2.0000,  1.0000,  4.0000,  0.2100,  1.0000, 10.0000,  0.6480,
+         1.0000,  6.0000,  0.4320,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor([0]) tensor(0.6631, device='cuda:0') tensor([7.3614, 7.5067], device='cuda:0', grad_fn=<ViewBackward0>) tensor([6.3849, 6.5509], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1299.6775, device='cuda:0') total reward
+actions tensor([2274., 1726.]) 209.34790944650996
+tensor(1299.6775, device='cuda:0') tensor([ 1.0000,  3.0000,  1.0000,  6.0000,  1.0000,  3.0000,  1.0000,  4.0000,
+         1.0000,  2.0000,  1.0000,  4.0000,  0.2362,  1.0000, 10.0000,  0.4724,
+         1.0000, 10.0000,  0.5249,  1.0000,  4.0000,  0.2333,  1.0000,  6.0000,
+         0.3888,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000,  2.0000,  1.0000,  1.0000,  1.0000,  3.0000,  1.0000,  1.0000,
+         1.0000,  3.0000,  1.0000,  6.0000,  0.3499,  1.0000,  4.0000,  0.2592,
+         1.0000, 10.0000,  0.7200,  1.0000,  4.0000,  0.3600,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([0]) tensor(1, device='cuda:0') tensor(0., device='cuda:0') tensor([4.9652, 5.1997], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.6088, 7.8430], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1298.2413, device='cuda:0') total reward
+actions tensor([2201., 1799.]) 198.88051397418445
+tensor(1298.2413, device='cuda:0') tensor([1., 1., 1., 2., 1., 2., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([1., 1., 1., 2., 1., 1., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(0, device='cuda:0') tensor(0, device='cuda:0') tensor(0.4000, device='cuda:0') tensor([8.0134, 7.6835], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.9559, 7.6279], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor([1])
+we got  tensor(1298.9564, device='cuda:0') total reward
+actions tensor([2159., 1841.]) 188.93648827547523
+tensor(1298.9564, device='cuda:0') tensor([ 1.0000,  4.0000,  1.0000,  2.0000,  1.0000,  7.0000,  1.0000,  1.0000,
+         1.0000,  6.0000,  1.0000, 10.0000,  0.4783,  1.0000,  4.0000,  0.2126,
+         1.0000,  4.0000,  0.2100,  1.0000,  4.0000,  0.2333,  1.0000,  4.0000,
+         0.2592,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000,  6.0000,  1.0000,  6.0000,  1.0000, 10.0000,  1.0000,  1.0000,
+         1.0000,  2.0000,  1.0000,  6.0000,  0.3149,  1.0000, 10.0000,  0.5832,
+         1.0000, 10.0000,  0.6480,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(0, device='cuda:0') tensor(0, device='cuda:0') tensor(0.5624, device='cuda:0') tensor([5.8610, 5.5369], device='cuda:0', grad_fn=<ViewBackward0>) tensor([5.3271, 5.3054], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1326.8274, device='cuda:0') total reward
+actions tensor([2227., 1773.]) 179.48966386170147
+tensor(1326.8274, device='cuda:0') tensor([1., 2., 1., 4., 1., 3., 1., 1., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([1.0000, 1.0000, 1.0000, 2.0000, 1.0000, 2.0000, 1.0000, 3.0000, 1.0000,
+        3.0000, 1.0000, 3.0000, 0.2700, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor(0, device='cuda:0') tensor(0, device='cuda:0') tensor(0.4000, device='cuda:0') tensor([8.0570, 7.3722], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.8357, 7.5898], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1243.9561, device='cuda:0') total reward
+actions tensor([2221., 1779.]) 170.5151806686164
+tensor(1243.9561, device='cuda:0') tensor([1., 1., 1., 1., 1., 1., 1., 2., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([1., 1., 1., 1., 1., 2., 1., 2., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(0, device='cuda:0') tensor(0, device='cuda:0') tensor(0.4000, device='cuda:0') tensor([7.9388, 7.8168], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.4710, 7.3010], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1181.3811, device='cuda:0') total reward
+actions tensor([1774., 2226.]) 161.98942163518558
+tensor(1181.3811, device='cuda:0') tensor([ 1.0000,  7.0000,  1.0000,  4.0000,  1.0000,  7.0000,  1.0000,  4.0000,
+         1.0000,  1.0000,  1.0000,  6.0000,  0.2296,  1.0000,  4.0000,  0.1701,
+         1.0000,  6.0000,  0.4374,  1.0000, 10.0000,  0.5832,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000,  9.0000,  1.0000,  5.0000,  1.0000,  3.0000,  1.0000,  2.0000,
+         1.0000,  5.0000,  1.0000,  6.0000,  0.3888,  1.0000, 10.0000,  0.7200,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor([0]) tensor(0.1291, device='cuda:0') tensor([4.9665, 5.3952], device='cuda:0', grad_fn=<ViewBackward0>) tensor([6.0574, 5.9996], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1241.1663, device='cuda:0') total reward
+actions tensor([1960., 2040.]) 153.88995055342627
+tensor(1241.1663, device='cuda:0') tensor([ 1.0000,  2.0000,  1.0000,  2.0000,  1.0000,  4.0000,  1.0000,  4.0000,
+         1.0000,  6.0000,  1.0000, 10.0000,  0.6480,  1.0000,  2.0000,  0.1800,
+         1.0000,  4.0000,  0.2880,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([1., 4., 1., 2., 1., 7., 1., 1., 1., 5., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(0, device='cuda:0') tensor(0, device='cuda:0') tensor(0.4212, device='cuda:0') tensor([7.3908, 7.3583], device='cuda:0', grad_fn=<ViewBackward0>) tensor([8.0521, 8.0134], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1341.3838, device='cuda:0') total reward
+actions tensor([2119., 1881.]) 146.19545302575494
+tensor(1341.3838, device='cuda:0') tensor([ 1.0000,  1.0000,  1.0000,  6.0000,  1.0000,  1.0000,  1.0000,  6.0000,
+         1.0000,  3.0000,  1.0000, 10.0000,  0.5832,  1.0000,  4.0000,  0.3240,
+         1.0000,  4.0000,  0.2592,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([1., 3., 1., 3., 1., 4., 1., 4., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(1, device='cuda:0') tensor(0, device='cuda:0') tensor(1.1493, device='cuda:0') tensor([6.9797, 7.0248], device='cuda:0', grad_fn=<ViewBackward0>) tensor([8.4937, 8.2615], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1260.2905, device='cuda:0') total reward
+actions tensor([2124., 1876.]) 138.8856803744672
+tensor(1260.2905, device='cuda:0') tensor([1.0000, 2.0000, 1.0000, 3.0000, 1.0000, 3.0000, 1.0000, 3.0000, 1.0000,
+        4.0000, 1.0000, 4.0000, 0.2100, 1.0000, 4.0000, 0.3240, 1.0000, 4.0000,
+        0.2880, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([ 1.0000,  2.0000,  1.0000,  5.0000,  1.0000,  3.0000,  1.0000,  8.0000,
+         1.0000,  3.0000,  1.0000,  2.0000,  0.0861,  1.0000,  6.0000,  0.2834,
+         1.0000,  6.0000,  0.3149,  1.0000, 10.0000,  0.5832,  1.0000,  4.0000,
+         0.2916,  1.0000,  2.0000,  0.1620], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(0.1517, device='cuda:0') tensor([7.3841, 7.7127], device='cuda:0', grad_fn=<ViewBackward0>) tensor([5.2772, 5.4311], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1284.8480, device='cuda:0') total reward
+actions tensor([2249., 1751.]) 131.94139635574382
+tensor(1284.8480, device='cuda:0') tensor([1.0000, 3.0000, 1.0000, 1.0000, 1.0000, 6.0000, 1.0000, 2.0000, 1.0000,
+        4.0000, 1.0000, 3.0000, 0.2430, 1.0000, 4.0000, 0.2592, 1.0000, 4.0000,
+        0.3600, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([1.0000, 5.0000, 1.0000, 3.0000, 1.0000, 2.0000, 1.0000, 1.0000, 1.0000,
+        1.0000, 1.0000, 3.0000, 0.2700, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(0, device='cuda:0') tensor(0.2592, device='cuda:0') tensor([7.5547, 7.6559], device='cuda:0', grad_fn=<ViewBackward0>) tensor([8.2157, 7.9265], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1307.4879, device='cuda:0') total reward
+actions tensor([2012., 1988.]) 125.3443265379566
+tensor(1307.4879, device='cuda:0') tensor([ 1.0000,  1.0000,  1.0000,  1.0000,  1.0000,  6.0000,  1.0000,  4.0000,
+         1.0000,  4.0000,  1.0000, 10.0000,  0.5832,  1.0000,  4.0000,  0.2592,
+         1.0000,  4.0000,  0.3600,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000,  4.0000,  1.0000,  3.0000,  1.0000,  5.0000,  1.0000,  6.0000,
+         1.0000,  7.0000,  1.0000,  4.0000,  0.2624,  1.0000, 10.0000,  0.5832,
+         1.0000, 10.0000,  0.6480,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(0.4540, device='cuda:0') tensor([6.6301, 7.8177], device='cuda:0', grad_fn=<ViewBackward0>) tensor([4.9599, 5.2408], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1253.3171, device='cuda:0') total reward
+actions tensor([1949., 2051.]) 119.07711021105877
+tensor(1253.3171, device='cuda:0') tensor([ 1.0000,  6.0000,  1.0000,  2.0000,  1.0000,  3.0000,  1.0000,  3.0000,
+         1.0000, 10.0000,  1.0000,  4.0000,  0.1890,  1.0000, 10.0000,  0.5249,
+         1.0000,  6.0000,  0.4374,  1.0000, 10.0000,  0.5832,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000,  2.0000,  1.0000,  2.0000,  1.0000,  9.0000,  1.0000,  4.0000,
+         1.0000,  2.0000,  1.0000, 10.0000,  0.4252,  1.0000,  6.0000,  0.3149,
+         1.0000,  6.0000,  0.3888,  1.0000,  4.0000,  0.2880,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(0.5275, device='cuda:0') tensor([4.2519, 4.6148], device='cuda:0', grad_fn=<ViewBackward0>) tensor([5.3878, 5.6571], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1232.3872, device='cuda:0') total reward
+actions tensor([1957., 2043.]) 113.12325470050583
+tensor(1232.3872, device='cuda:0') tensor([ 1.0000, 10.0000,  1.0000,  2.0000,  1.0000,  2.0000,  1.0000,  2.0000,
+         1.0000,  5.0000,  1.0000, 10.0000,  0.4724,  1.0000,  4.0000,  0.2100,
+         1.0000,  3.0000,  0.2187,  1.0000,  2.0000,  0.1620,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.,  5.,  1.,  2.,  1., 10.,  0.,  0.,  1.,  4.,  0.,  0.,  0.,  0.,
+         0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+       device='cuda:0') tensor(1, device='cuda:0') tensor(0, device='cuda:0') tensor(1.7636, device='cuda:0') tensor([6.1448, 6.5965], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.6470, 7.6087], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1174.1245, device='cuda:0') total reward
+actions tensor([1889., 2111.]) 107.46709196548053
+tensor(1174.1245, device='cuda:0') tensor([1., 4., 1., 3., 0., 0., 1., 2., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([1., 2., 1., 4., 1., 2., 1., 1., 1., 1., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(0, device='cuda:0') tensor([0]) tensor(1.0600, device='cuda:0') tensor([7.5825, 7.1982], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.7176, 7.3296], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1200.2216, device='cuda:0') total reward
+actions tensor([1916., 2084.]) 102.0937373672065
+tensor(1200.2216, device='cuda:0') tensor([ 1.0000,  8.0000,  1.0000,  9.0000,  1.0000,  4.0000,  1.0000,  3.0000,
+         1.0000,  2.0000,  1.0000,  6.0000,  0.2296,  1.0000,  6.0000,  0.2551,
+         1.0000, 10.0000,  0.4724,  1.0000,  3.0000,  0.1968,  1.0000,  2.0000,
+         0.1620,  1.0000,  6.0000,  0.4320], device='cuda:0') tensor([1.0000, 8.0000, 1.0000, 3.0000, 1.0000, 7.0000, 1.0000, 3.0000, 1.0000,
+        1.0000, 1.0000, 4.0000, 0.1701, 1.0000, 6.0000, 0.2834, 1.0000, 2.0000,
+        0.1166, 1.0000, 4.0000, 0.2880, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([1]) tensor(1, device='cuda:0') tensor(0., device='cuda:0') tensor([4.9326, 5.4313], device='cuda:0', grad_fn=<ViewBackward0>) tensor([6.1831, 6.5265], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1182.8240, device='cuda:0') total reward
+actions tensor([1868., 2132.]) 96.98905049884618
+tensor(1182.8240, device='cuda:0') tensor([ 1.0000, 10.0000,  1.0000,  2.0000,  1.0000,  3.0000,  1.0000,  5.0000,
+         1.0000,  3.0000,  1.0000,  3.0000,  0.2700,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([1., 4., 1., 1., 1., 3., 1., 4., 1., 2., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(1, device='cuda:0') tensor(0, device='cuda:0') tensor(1.1200, device='cuda:0') tensor([7.2941, 7.3363], device='cuda:0', grad_fn=<ViewBackward0>) tensor([8.2605, 8.1018], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1306.4838, device='cuda:0') total reward
+actions tensor([1910., 2090.]) 92.13959797390386
+tensor(1306.4838, device='cuda:0') tensor([ 1.0000,  4.0000,  1.0000,  1.0000,  1.0000,  7.0000,  1.0000,  5.0000,
+         1.0000,  9.0000,  1.0000, 10.0000,  0.4252,  1.0000,  3.0000,  0.1771,
+         1.0000,  4.0000,  0.2624,  1.0000,  6.0000,  0.3149,  1.0000,  3.0000,
+         0.2430,  1.0000, 10.0000,  0.7200], device='cuda:0') tensor([1.0000, 6.0000, 1.0000, 1.0000, 1.0000, 5.0000, 1.0000, 2.0000, 1.0000,
+        4.0000, 1.0000, 2.0000, 0.1440, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([1]) tensor(1, device='cuda:0') tensor(0., device='cuda:0') tensor([4.8609, 4.9383], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.7198, 7.7834], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1193.2379, device='cuda:0') total reward
+actions tensor([1709., 2291.]) 87.53261807520866
+tensor(1193.2379, device='cuda:0') tensor([ 1.0000,  4.0000,  1.0000,  8.0000,  1.0000,  2.0000,  1.0000,  4.0000,
+         1.0000,  4.0000,  1.0000,  4.0000,  0.1890,  1.0000,  4.0000,  0.2100,
+         1.0000, 10.0000,  0.6480,  1.0000, 10.0000,  0.7200,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000,  4.0000,  1.0000,  2.0000,  1.0000,  4.0000,  1.0000,  9.0000,
+         1.0000,  9.0000,  1.0000,  6.0000,  0.2834,  1.0000, 10.0000,  0.5249,
+         1.0000, 10.0000,  0.6480,  1.0000, 10.0000,  0.7200,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(0., device='cuda:0') tensor([5.1095, 5.2119], device='cuda:0', grad_fn=<ViewBackward0>) tensor([3.8586, 4.1400], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1236.8341, device='cuda:0') total reward
+actions tensor([2031., 1969.]) 83.15598717144823
+tensor(1236.8341, device='cuda:0') tensor([ 1.0000,  1.0000,  1.0000,  7.0000,  1.0000,  5.0000,  1.0000,  1.0000,
+         1.0000,  3.0000,  1.0000, 10.0000,  0.6480,  1.0000,  6.0000,  0.5400,
+         1.0000,  4.0000,  0.2880,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([1., 6., 1., 8., 1., 8., 1., 3., 1., 4., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(0, device='cuda:0') tensor(1, device='cuda:0') tensor(0.4320, device='cuda:0') tensor([7.0169, 6.7981], device='cuda:0', grad_fn=<ViewBackward0>) tensor([6.3272, 6.5743], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1359.6384, device='cuda:0') total reward
+actions tensor([2221., 1779.]) 78.99818781287581
+tensor(1359.6384, device='cuda:0') tensor([1.0000, 1.0000, 1.0000, 1.0000, 1.0000, 6.0000, 1.0000, 2.0000, 1.0000,
+        5.0000, 1.0000, 6.0000, 0.5400, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([1., 2., 1., 2., 1., 1., 0., 0., 1., 1., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(1, device='cuda:0') tensor([0]) tensor(0.2000, device='cuda:0') tensor([8.3261, 8.3948], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.7700, 7.5515], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1199.6243, device='cuda:0') total reward
+actions tensor([1976., 2024.]) 75.04827842223202
+tensor(1199.6243, device='cuda:0') tensor([ 1.0000,  3.0000,  1.0000,  4.0000,  1.0000,  2.0000,  1.0000,  3.0000,
+         1.0000,  2.0000,  1.0000, 10.0000,  0.2510,  1.0000,  6.0000,  0.2296,
+         1.0000, 10.0000,  0.5249,  1.0000,  6.0000,  0.3888,  1.0000, 10.0000,
+         0.7200,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000,  2.0000,  1.0000,  4.0000,  1.0000,  1.0000,  1.0000,  6.0000,
+         1.0000,  9.0000,  1.0000, 10.0000,  0.4252,  1.0000,  4.0000,  0.2100,
+         1.0000,  6.0000,  0.3499,  1.0000, 10.0000,  0.6480,  1.0000, 10.0000,
+         0.7200,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(0.2066, device='cuda:0') tensor([4.4966, 4.9923], device='cuda:0', grad_fn=<ViewBackward0>) tensor([4.2453, 4.4145], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1288.2346, device='cuda:0') total reward
+actions tensor([1848., 2152.]) 71.29586450112042
+tensor(1288.2346, device='cuda:0') tensor([1.0000, 2.0000, 1.0000, 9.0000, 1.0000, 2.0000, 1.0000, 1.0000, 1.0000,
+        1.0000, 1.0000, 4.0000, 0.2100, 1.0000, 4.0000, 0.2333, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([ 1.0000,  2.0000,  1.0000,  5.0000,  1.0000,  2.0000,  1.0000,  1.0000,
+         1.0000,  1.0000,  1.0000, 10.0000,  0.3826,  1.0000, 10.0000,  0.5249,
+         1.0000, 10.0000,  0.5832,  1.0000,  6.0000,  0.3888,  1.0000,  3.0000,
+         0.2430,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(-0.2175, device='cuda:0') tensor([7.8600, 8.0707], device='cuda:0', grad_fn=<ViewBackward0>) tensor([6.0723, 6.2521], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1242.7919, device='cuda:0') total reward
+actions tensor([2194., 1806.]) 67.7310712760644
+tensor(1242.7919, device='cuda:0') tensor([1.0000, 1.0000, 1.0000, 4.0000, 1.0000, 8.0000, 1.0000, 2.0000, 1.0000,
+        1.0000, 1.0000, 4.0000, 0.2592, 1.0000, 2.0000, 0.1440, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([ 1.,  3.,  1.,  2.,  1.,  4.,  1.,  1.,  1., 10.,  0.,  0.,  0.,  0.,
+         0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+       device='cuda:0') tensor(1, device='cuda:0') tensor(0, device='cuda:0') tensor(1.1600, device='cuda:0') tensor([8.0904, 8.1075], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.6770, 7.5834], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1236.9662, device='cuda:0') total reward
+actions tensor([2103., 1897.]) 64.34451771226117
+tensor(1236.9662, device='cuda:0') tensor([ 1.0000,  3.0000,  1.0000,  1.0000,  1.0000,  4.0000,  1.0000,  3.0000,
+         1.0000,  7.0000,  1.0000,  4.0000,  0.1531,  1.0000, 10.0000,  0.5832,
+         1.0000, 10.0000,  0.6480,  1.0000,  4.0000,  0.2880,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([1.0000, 3.0000, 1.0000, 6.0000, 1.0000, 3.0000, 1.0000, 5.0000, 1.0000,
+        2.0000, 1.0000, 3.0000, 0.1750, 1.0000, 3.0000, 0.1944, 1.0000, 3.0000,
+        0.2160, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor(0, device='cuda:0') tensor([1]) tensor(0.6115, device='cuda:0') tensor([6.4594, 6.3667], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.1855, 7.3805], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1192.2455, device='cuda:0') total reward
+actions tensor([1926., 2074.]) 61.12729182664811
+tensor(1192.2455, device='cuda:0') tensor([1., 3., 1., 1., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([1., 4., 1., 2., 0., 0., 1., 2., 1., 3., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(0, device='cuda:0') tensor(0, device='cuda:0') tensor(0.7000, device='cuda:0') tensor([7.4260, 7.3020], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.4069, 7.3227], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1142.9894, device='cuda:0') total reward
+actions tensor([1509., 2491.]) 58.07092723531571
+tensor(1142.9894, device='cuda:0') tensor([1.0000, 1.0000, 1.0000, 5.0000, 1.0000, 1.0000, 1.0000, 6.0000, 1.0000,
+        1.0000, 1.0000, 3.0000, 0.1575, 1.0000, 4.0000, 0.2333, 1.0000, 4.0000,
+        0.2592, 1.0000, 3.0000, 0.2160, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([ 1.0000,  9.0000,  1.0000,  1.0000,  1.0000,  6.0000,  1.0000,  8.0000,
+         1.0000,  7.0000,  1.0000,  2.0000,  0.1181,  1.0000, 10.0000,  0.5832,
+         1.0000, 10.0000,  0.6480,  1.0000,  6.0000,  0.4320,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(0, device='cuda:0') tensor(0., device='cuda:0') tensor([7.3913, 7.4037], device='cuda:0', grad_fn=<ViewBackward0>) tensor([4.2852, 4.2716], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1292.6339, device='cuda:0') total reward
+actions tensor([2045., 1955.]) 55.16738087354992
+tensor(1292.6339, device='cuda:0') tensor([ 1.0000,  1.0000,  1.0000,  1.0000,  1.0000,  1.0000,  1.0000,  2.0000,
+         1.0000,  2.0000,  1.0000,  4.0000,  0.3240,  1.0000,  3.0000,  0.1944,
+         1.0000, 10.0000,  0.9000,  1.0000,  3.0000,  0.2160,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([1.0000, 1.0000, 1.0000, 7.0000, 1.0000, 3.0000, 1.0000, 6.0000, 1.0000,
+        7.0000, 1.0000, 3.0000, 0.1771, 1.0000, 6.0000, 0.3149, 1.0000, 2.0000,
+        0.1312, 1.0000, 4.0000, 0.2333, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(0.3149, device='cuda:0') tensor([8.6333, 8.7104], device='cuda:0', grad_fn=<ViewBackward0>) tensor([6.2891, 6.3670], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1231.4611, device='cuda:0') total reward
+actions tensor([1909., 2091.]) 52.40901182987242
+tensor(1231.4611, device='cuda:0') tensor([1.0000, 1.0000, 1.0000, 3.0000, 1.0000, 6.0000, 1.0000, 3.0000, 1.0000,
+        3.0000, 1.0000, 3.0000, 0.2160, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([ 1.0000,  2.0000,  1.0000,  2.0000,  1.0000,  1.0000,  1.0000, 10.0000,
+         1.0000,  5.0000,  1.0000,  6.0000,  0.4320,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(0, device='cuda:0') tensor(0.9360, device='cuda:0') tensor([8.1094, 8.2506], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.6804, 7.5400], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1273.1951, device='cuda:0') total reward
+actions tensor([1888., 2112.]) 49.7885612383788
+tensor(1273.1951, device='cuda:0') tensor([1.0000, 3.0000, 1.0000, 7.0000, 1.0000, 2.0000, 1.0000, 3.0000, 1.0000,
+        4.0000, 1.0000, 2.0000, 0.1296, 1.0000, 4.0000, 0.2880, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([ 1.0000,  1.0000,  1.0000,  3.0000,  1.0000,  2.0000,  1.0000,  5.0000,
+         1.0000,  4.0000,  1.0000,  4.0000,  0.2333,  1.0000, 10.0000,  0.7200,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(0.3600, device='cuda:0') tensor([7.4984, 7.6127], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.7206, 7.7344], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1236.5500, device='cuda:0') total reward
+actions tensor([1994., 2006.]) 47.299133176459854
+tensor(1236.5500, device='cuda:0') tensor([1., 4., 1., 1., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([1., 4., 1., 1., 1., 2., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(0, device='cuda:0') tensor(0, device='cuda:0') tensor(0.8000, device='cuda:0') tensor([7.5302, 7.3497], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.8812, 7.5679], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1199.1204, device='cuda:0') total reward
+actions tensor([1747., 2253.]) 44.93417651763686
+tensor(1199.1204, device='cuda:0') tensor([ 1.0000,  5.0000,  1.0000,  1.0000,  1.0000,  1.0000,  1.0000,  1.0000,
+         1.0000,  6.0000,  1.0000, 10.0000,  0.5832,  1.0000,  4.0000,  0.3600,
+         1.0000,  4.0000,  0.2880,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.,  1.,  1.,  3.,  1., 10.,  1.,  2.,  1.,  5.,  0.,  0.,  0.,  0.,
+         0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+       device='cuda:0') tensor(0, device='cuda:0') tensor(1, device='cuda:0') tensor(0.9000, device='cuda:0') tensor([7.3700, 7.3241], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.4329, 7.4457], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1271.4238, device='cuda:0') total reward
+actions tensor([1996., 2004.]) 42.68746769175502
+tensor(1271.4238, device='cuda:0') tensor([1.0000, 2.0000, 1.0000, 7.0000, 1.0000, 3.0000, 1.0000, 2.0000, 1.0000,
+        2.0000, 1.0000, 2.0000, 0.0945, 1.0000, 2.0000, 0.1166, 1.0000, 3.0000,
+        0.1944, 1.0000, 3.0000, 0.2160, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([ 1.0000,  2.0000,  1.0000,  9.0000,  1.0000,  4.0000,  1.0000,  2.0000,
+         1.0000,  7.0000,  1.0000,  3.0000,  0.1594,  1.0000,  4.0000,  0.2100,
+         1.0000,  6.0000,  0.3499,  1.0000, 10.0000,  0.6480,  1.0000, 10.0000,
+         0.7200,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(0, device='cuda:0') tensor(0.3202, device='cuda:0') tensor([7.4446, 7.8087], device='cuda:0', grad_fn=<ViewBackward0>) tensor([4.6159, 4.5697], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(1, device='cuda:0')
+we got  tensor(1233.3893, device='cuda:0') total reward
+actions tensor([1673., 2327.]) 40.553094307167264
+tensor(1233.3893, device='cuda:0') tensor([ 1.0000,  2.0000,  1.0000,  4.0000,  1.0000,  2.0000,  1.0000,  4.0000,
+         1.0000,  1.0000,  1.0000,  4.0000,  0.1890,  1.0000, 10.0000,  0.5832,
+         1.0000,  3.0000,  0.2430,  1.0000,  6.0000,  0.3888,  1.0000,  3.0000,
+         0.2700,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.,  4.,  1., 10.,  1.,  5.,  1.,  1.,  1.,  2.,  0.,  0.,  0.,  0.,
+         0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+       device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(1., device='cuda:0') tensor([6.6281, 7.3954], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.6604, 7.6862], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1130.4061, device='cuda:0') total reward
+actions tensor([1403., 2597.]) 38.5254395918089
+tensor(1130.4061, device='cuda:0') tensor([ 1.0000,  5.0000,  1.0000,  1.0000,  1.0000,  2.0000,  1.0000, 10.0000,
+         1.0000,  1.0000,  1.0000,  6.0000,  0.2834,  1.0000,  6.0000,  0.3937,
+         1.0000, 10.0000,  0.7290,  1.0000, 10.0000,  0.6480,  1.0000,  6.0000,
+         0.4320,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000,  4.0000,  1.0000,  3.0000,  1.0000,  1.0000,  1.0000,  5.0000,
+         1.0000,  3.0000,  1.0000,  4.0000,  0.1116,  1.0000, 10.0000,  0.3826,
+         1.0000,  4.0000,  0.1701,  1.0000,  4.0000,  0.2916,  1.0000, 10.0000,
+         0.7200,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(0.4724, device='cuda:0') tensor([4.6020, 4.8256], device='cuda:0', grad_fn=<ViewBackward0>) tensor([5.1130, 5.3302], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1146.5173, device='cuda:0') total reward
+actions tensor([1439., 2561.]) 36.59916761221845
+tensor(1146.5173, device='cuda:0') tensor([ 1.0000,  9.0000,  1.0000,  3.0000,  1.0000,  8.0000,  1.0000,  7.0000,
+         1.0000,  8.0000,  1.0000,  4.0000,  0.1701,  1.0000,  4.0000,  0.2333,
+         1.0000,  6.0000,  0.3888,  1.0000, 10.0000,  0.7200,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000,  4.0000,  1.0000, 10.0000,  1.0000,  2.0000,  1.0000,  3.0000,
+         1.0000,  1.0000,  1.0000,  6.0000,  0.3888,  1.0000, 10.0000,  0.7200,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(0.8580, device='cuda:0') tensor([3.5591, 3.8398], device='cuda:0', grad_fn=<ViewBackward0>) tensor([6.5752, 6.6729], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1186.2979, device='cuda:0') total reward
+actions tensor([1841., 2159.]) 34.769209231607526
+tensor(1186.2979, device='cuda:0') tensor([ 1.0000,  4.0000,  1.0000,  2.0000,  1.0000,  2.0000,  1.0000,  1.0000,
+         1.0000,  2.0000,  1.0000,  4.0000,  0.1377,  1.0000, 10.0000,  0.3826,
+         1.0000,  6.0000,  0.3189,  1.0000,  6.0000,  0.3543,  1.0000, 10.0000,
+         0.5249,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000, 10.0000,  1.0000,  9.0000,  1.0000,  3.0000,  1.0000,  1.0000,
+         1.0000,  4.0000,  1.0000, 10.0000,  0.5832,  1.0000,  4.0000,  0.2592,
+         1.0000, 10.0000,  0.7200,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(0, device='cuda:0') tensor(1, device='cuda:0') tensor(0.5745, device='cuda:0') tensor([5.7681, 5.5595], device='cuda:0', grad_fn=<ViewBackward0>) tensor([4.8411, 5.0040], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1157.5419, device='cuda:0') total reward
+actions tensor([1826., 2174.]) 33.03074877002715
+tensor(1157.5419, device='cuda:0') tensor([1.0000, 3.0000, 1.0000, 9.0000, 1.0000, 3.0000, 1.0000, 7.0000, 1.0000,
+        5.0000, 1.0000, 4.0000, 0.2126, 1.0000, 4.0000, 0.1701, 1.0000, 4.0000,
+        0.1890, 1.0000, 6.0000, 0.3499, 1.0000, 4.0000, 0.2880, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([ 1.0000,  1.0000,  1.0000,  2.0000,  1.0000,  1.0000,  1.0000,  8.0000,
+         1.0000,  6.0000,  1.0000, 10.0000,  0.3826,  1.0000, 10.0000,  0.4724,
+         1.0000,  6.0000,  0.3149,  1.0000,  4.0000,  0.2333,  1.0000,  4.0000,
+         0.2592,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(0, device='cuda:0') tensor(0.0066, device='cuda:0') tensor([4.5685, 4.6911], device='cuda:0', grad_fn=<ViewBackward0>) tensor([5.0563, 4.9907], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1259.0859, device='cuda:0') total reward
+actions tensor([1984., 2016.]) 31.37921133152579
+tensor(1259.0859, device='cuda:0') tensor([1., 2., 1., 3., 0., 0., 1., 1., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([1., 2., 1., 1., 1., 3., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(0, device='cuda:0') tensor(0, device='cuda:0') tensor(0.6000, device='cuda:0') tensor([7.3889, 7.2345], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.4272, 7.1259], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1241.0415, device='cuda:0') total reward
+actions tensor([2129., 1871.]) 29.8102507649495
+tensor(1241.0415, device='cuda:0') tensor([1., 3., 1., 1., 1., 1., 1., 3., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([1., 3., 1., 2., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(0, device='cuda:0') tensor(0, device='cuda:0') tensor(0.5000, device='cuda:0') tensor([7.2785, 7.0956], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.3462, 7.2310], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1269.0247, device='cuda:0') total reward
+actions tensor([2101., 1899.]) 28.31973822670202
+tensor(1269.0247, device='cuda:0') tensor([ 1.0000,  2.0000,  1.0000,  3.0000,  1.0000,  3.0000,  1.0000,  3.0000,
+         1.0000,  1.0000,  1.0000, 10.0000,  0.9000,  1.0000,  3.0000,  0.2160,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([1.0000, 6.0000, 1.0000, 2.0000, 1.0000, 8.0000, 1.0000, 1.0000, 1.0000,
+        5.0000, 1.0000, 4.0000, 0.2362, 1.0000, 6.0000, 0.3149, 1.0000, 4.0000,
+        0.2333, 1.0000, 3.0000, 0.2187, 1.0000, 6.0000, 0.3888, 1.0000, 3.0000,
+        0.2430], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(0.2694, device='cuda:0') tensor([8.5203, 8.5441], device='cuda:0', grad_fn=<ViewBackward0>) tensor([5.4910, 5.8526], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1282.3889, device='cuda:0') total reward
+actions tensor([2168., 1832.]) 26.90375131536692
+tensor(1282.3889, device='cuda:0') tensor([1.0000, 2.0000, 1.0000, 5.0000, 1.0000, 7.0000, 1.0000, 2.0000, 1.0000,
+        3.0000, 1.0000, 3.0000, 0.2160, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([1., 9., 1., 3., 1., 3., 1., 4., 1., 2., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(0, device='cuda:0') tensor(1, device='cuda:0') tensor(0.5900, device='cuda:0') tensor([7.9760, 7.9722], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.6519, 7.6553], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1234.9368, device='cuda:0') total reward
+actions tensor([1911., 2089.]) 25.558563749598573
+tensor(1234.9368, device='cuda:0') tensor([1., 2., 0., 0., 0., 0., 1., 3., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([1., 3., 1., 2., 1., 2., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(0, device='cuda:0') tensor(0, device='cuda:0') tensor(0.4000, device='cuda:0') tensor([7.3615, 7.2155], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.3943, 7.2877], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1286.0896, device='cuda:0') total reward
+actions tensor([2018., 1982.]) 24.280635562118643
+tensor(1286.0896, device='cuda:0') tensor([ 1.0000,  8.0000,  1.0000,  6.0000,  1.0000,  1.0000,  1.0000,  6.0000,
+         1.0000,  4.0000,  1.0000, 10.0000,  0.3099,  1.0000, 10.0000,  0.4252,
+         1.0000, 10.0000,  0.6561,  1.0000,  6.0000,  0.3499,  1.0000,  4.0000,
+         0.3240,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000,  2.0000,  1.0000,  3.0000,  1.0000,  4.0000,  1.0000, 10.0000,
+         1.0000,  8.0000,  1.0000,  4.0000,  0.2880,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(0.7063, device='cuda:0') tensor([3.8926, 4.1000], device='cuda:0', grad_fn=<ViewBackward0>) tensor([6.4326, 6.5007], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1239.8158, device='cuda:0') total reward
+actions tensor([1967., 2033.]) 23.06660378401271
+tensor(1239.8158, device='cuda:0') tensor([ 1.0000,  1.0000,  1.0000,  5.0000,  1.0000, 10.0000,  1.0000,  2.0000,
+         1.0000,  5.0000,  1.0000,  6.0000,  0.1860,  1.0000, 10.0000,  0.3444,
+         1.0000, 10.0000,  0.4252,  1.0000,  6.0000,  0.2834,  1.0000, 10.0000,
+         0.7200,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000,  6.0000,  1.0000,  1.0000,  1.0000,  2.0000,  1.0000, 10.0000,
+         1.0000,  3.0000,  1.0000,  6.0000,  0.2066,  1.0000,  6.0000,  0.2296,
+         1.0000,  6.0000,  0.2551,  1.0000, 10.0000,  0.4724,  1.0000,  4.0000,
+         0.2100,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(0, device='cuda:0') tensor(1, device='cuda:0') tensor(0.5404, device='cuda:0') tensor([3.9256, 3.6608], device='cuda:0', grad_fn=<ViewBackward0>) tensor([4.3212, 4.6279], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1244.9738, device='cuda:0') total reward
+actions tensor([2043., 1957.]) 21.913273594812075
+tensor(1244.9738, device='cuda:0') tensor([ 1.0000,  6.0000,  1.0000,  2.0000,  1.0000,  1.0000,  1.0000,  2.0000,
+         1.0000,  3.0000,  1.0000, 10.0000,  0.9000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([1.0000, 5.0000, 1.0000, 6.0000, 1.0000, 2.0000, 1.0000, 2.0000, 1.0000,
+        2.0000, 1.0000, 4.0000, 0.3240, 1.0000, 2.0000, 0.1800, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(0.4320, device='cuda:0') tensor([8.3132, 8.3618], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.5362, 7.5373], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1245.8562, device='cuda:0') total reward
+actions tensor([2301., 1699.]) 20.817609915071472
+tensor(1245.8562, device='cuda:0') tensor([1.0000, 2.0000, 1.0000, 2.0000, 1.0000, 2.0000, 1.0000, 5.0000, 1.0000,
+        4.0000, 1.0000, 6.0000, 0.4320, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor([1.0000, 1.0000, 1.0000, 4.0000, 1.0000, 1.0000, 1.0000, 4.0000, 1.0000,
+        8.0000, 1.0000, 4.0000, 0.2880, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor(0, device='cuda:0') tensor(1, device='cuda:0') tensor(0.6480, device='cuda:0') tensor([8.0567, 7.8036], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.6535, 7.7345], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1243.2152, device='cuda:0') total reward
+actions tensor([1998., 2002.]) 19.776729419317896
+tensor(1243.2152, device='cuda:0') tensor([ 1.0000, 10.0000,  1.0000,  1.0000,  1.0000,  3.0000,  1.0000,  1.0000,
+         1.0000,  1.0000,  1.0000, 10.0000,  0.9000,  1.0000,  3.0000,  0.2160,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([1.0000, 2.0000, 1.0000, 6.0000, 1.0000, 1.0000, 1.0000, 5.0000, 1.0000,
+        6.0000, 1.0000, 2.0000, 0.1620, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor(0, device='cuda:0') tensor(1, device='cuda:0') tensor(1.0620, device='cuda:0') tensor([8.0977, 8.0293], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.4236, 7.5596], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1160.0914, device='cuda:0') total reward
+actions tensor([1766., 2234.]) 18.787892948352003
+tensor(1160.0914, device='cuda:0') tensor([ 1.0000,  5.0000,  1.0000,  2.0000,  1.0000,  1.0000,  1.0000, 10.0000,
+         1.0000,  9.0000,  1.0000, 10.0000,  0.4724,  1.0000,  4.0000,  0.2624,
+         1.0000, 10.0000,  0.6480,  1.0000,  4.0000,  0.2880,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000,  7.0000,  1.0000,  1.0000,  1.0000,  8.0000,  1.0000,  9.0000,
+         1.0000, 10.0000,  1.0000,  4.0000,  0.2624,  1.0000, 10.0000,  0.5832,
+         1.0000,  4.0000,  0.2916,  1.0000,  4.0000,  0.2592,  1.0000,  4.0000,
+         0.2880,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(0, device='cuda:0') tensor(0.9973, device='cuda:0') tensor([4.4458, 4.4595], device='cuda:0', grad_fn=<ViewBackward0>) tensor([4.0465, 3.8201], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1131.3529, device='cuda:0') total reward
+actions tensor([1457., 2543.]) 17.8484983009344
+tensor(1131.3529, device='cuda:0') tensor([ 1.0000,  4.0000,  1.0000,  3.0000,  1.0000,  5.0000,  1.0000,  8.0000,
+         1.0000,  2.0000,  1.0000,  4.0000,  0.1701,  1.0000,  4.0000,  0.1890,
+         1.0000, 10.0000,  0.5249,  1.0000,  6.0000,  0.3499,  1.0000, 10.0000,
+         0.6480,  1.0000,  3.0000,  0.2160], device='cuda:0') tensor([ 1.0000,  7.0000,  1.0000,  3.0000,  1.0000,  1.0000,  1.0000,  4.0000,
+         1.0000,  1.0000,  1.0000,  6.0000,  0.2834,  1.0000, 10.0000,  0.5249,
+         1.0000,  4.0000,  0.2333,  1.0000,  4.0000,  0.2592,  1.0000,  6.0000,
+         0.4320,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(0.1890, device='cuda:0') tensor([4.5603, 4.7891], device='cuda:0', grad_fn=<ViewBackward0>) tensor([5.4622, 5.6245], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1246.2012, device='cuda:0') total reward
+actions tensor([2045., 1955.]) 16.956073385887677
+tensor(1246.2012, device='cuda:0') tensor([ 1.0000,  7.0000,  1.0000,  1.0000,  1.0000,  3.0000,  1.0000,  3.0000,
+         1.0000,  5.0000,  1.0000,  6.0000,  0.1860,  1.0000,  6.0000,  0.2296,
+         1.0000, 10.0000,  0.5905,  1.0000,  6.0000,  0.2834,  1.0000,  4.0000,
+         0.2333,  1.0000, 10.0000,  0.7200], device='cuda:0') tensor([ 1.0000,  3.0000,  1.0000,  1.0000,  1.0000,  2.0000,  1.0000,  7.0000,
+         1.0000,  5.0000,  1.0000,  6.0000,  0.3499,  1.0000,  6.0000,  0.3888,
+         1.0000, 10.0000,  0.7200,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(0., device='cuda:0') tensor([3.9874, 4.3350], device='cuda:0', grad_fn=<ViewBackward0>) tensor([6.1048, 6.2400], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1237.2349, device='cuda:0') total reward
+actions tensor([1863., 2137.]) 16.10826971659329
+tensor(1237.2349, device='cuda:0') tensor([ 1.0000,  2.0000,  1.0000,  9.0000,  1.0000,  4.0000,  1.0000,  1.0000,
+         1.0000,  1.0000,  1.0000,  6.0000,  0.2834,  1.0000,  3.0000,  0.1968,
+         1.0000,  4.0000,  0.2592,  1.0000,  3.0000,  0.2700,  1.0000, 10.0000,
+         0.7200,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([1., 1., 1., 9., 1., 1., 1., 2., 1., 1., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(0, device='cuda:0') tensor(0, device='cuda:0') tensor(0.1440, device='cuda:0') tensor([6.1116, 5.8864], device='cuda:0', grad_fn=<ViewBackward0>) tensor([8.0654, 7.8820], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1259.8914, device='cuda:0') total reward
+actions tensor([2048., 1952.]) 15.302856230763627
+tensor(1259.8914, device='cuda:0') tensor([ 1.,  1.,  1.,  6.,  1.,  7.,  1.,  4.,  1., 10.,  0.,  0.,  0.,  0.,
+         0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.,  0.],
+       device='cuda:0') tensor([1.0000, 3.0000, 1.0000, 1.0000, 1.0000, 3.0000, 1.0000, 2.0000, 1.0000,
+        1.0000, 1.0000, 4.0000, 0.3240, 1.0000, 3.0000, 0.2160, 0.0000, 0.0000,
+        0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000, 0.0000,
+        0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(0, device='cuda:0') tensor(1.4091, device='cuda:0') tensor([6.7238, 7.3269], device='cuda:0', grad_fn=<ViewBackward0>) tensor([8.1281, 7.9695], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1237.7240, device='cuda:0') total reward
+actions tensor([1979., 2021.]) 14.537713419225446
+tensor(1237.7240, device='cuda:0') tensor([ 1.0000,  3.0000,  1.0000,  2.0000,  1.0000,  6.0000,  1.0000,  3.0000,
+         1.0000,  2.0000,  1.0000, 10.0000,  0.3826,  1.0000, 10.0000,  0.4252,
+         1.0000,  6.0000,  0.3149,  1.0000,  6.0000,  0.3499,  1.0000,  3.0000,
+         0.2430,  1.0000, 10.0000,  0.6480], device='cuda:0') tensor([ 1.0000,  1.0000,  1.0000,  4.0000,  1.0000,  4.0000,  1.0000,  5.0000,
+         1.0000,  3.0000,  1.0000,  6.0000,  0.1860,  1.0000, 10.0000,  0.3444,
+         1.0000, 10.0000,  0.4252,  1.0000,  6.0000,  0.2834,  1.0000,  2.0000,
+         0.1166,  1.0000,  3.0000,  0.2160], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(-0.2000, device='cuda:0') tensor([4.5527, 4.6674], device='cuda:0', grad_fn=<ViewBackward0>) tensor([5.3897, 5.6543], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1179.0348, device='cuda:0') total reward
+actions tensor([1793., 2207.]) 13.810827748264172
+tensor(1179.0348, device='cuda:0') tensor([1., 6., 1., 6., 1., 7., 1., 2., 1., 2., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([ 1.0000,  1.0000,  1.0000,  7.0000,  1.0000,  3.0000,  1.0000,  2.0000,
+         1.0000,  8.0000,  1.0000,  2.0000,  0.1063,  1.0000,  6.0000,  0.3149,
+         1.0000,  6.0000,  0.3499,  1.0000, 10.0000,  0.6480,  1.0000,  4.0000,
+         0.3240,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(0, device='cuda:0') tensor(1.0800, device='cuda:0') tensor([7.3618, 7.5610], device='cuda:0', grad_fn=<ViewBackward0>) tensor([5.4438, 5.2284], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1290.9918, device='cuda:0') total reward
+actions tensor([1899., 2101.]) 13.120286360850963
+tensor(1290.9918, device='cuda:0') tensor([ 1.0000,  3.0000,  1.0000,  7.0000,  1.0000,  3.0000,  1.0000,  1.0000,
+         1.0000,  6.0000,  1.0000, 10.0000,  0.4724,  1.0000,  6.0000,  0.3149,
+         1.0000,  4.0000,  0.2333,  1.0000,  6.0000,  0.4320,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000,  8.0000,  1.0000,  5.0000,  1.0000, 10.0000,  1.0000,  2.0000,
+         1.0000,  3.0000,  1.0000,  6.0000,  0.2551,  1.0000,  6.0000,  0.3189,
+         1.0000,  6.0000,  0.2834,  1.0000,  4.0000,  0.2592,  1.0000,  6.0000,
+         0.4320,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(0, device='cuda:0') tensor(1, device='cuda:0') tensor(0.6802, device='cuda:0') tensor([5.3779, 5.3089], device='cuda:0', grad_fn=<ViewBackward0>) tensor([4.0419, 4.1238], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1283.0111, device='cuda:0') total reward
+actions tensor([2303., 1697.]) 12.464272042808416
+tensor(1283.0111, device='cuda:0') tensor([1., 3., 1., 4., 1., 2., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor([1., 2., 1., 1., 1., 1., 1., 4., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,
+        0., 0., 0., 0., 0., 0., 0., 0., 0., 0.], device='cuda:0') tensor(0, device='cuda:0') tensor(1, device='cuda:0') tensor(0.8000, device='cuda:0') tensor([7.4812, 7.2182], device='cuda:0', grad_fn=<ViewBackward0>) tensor([7.5065, 7.5148], device='cuda:0', grad_fn=<ViewBackward0>)
+initial actions tensor(0, device='cuda:0') tensor(0, device='cuda:0')
+we got  tensor(1144.2053, device='cuda:0') total reward
+actions tensor([1637., 2363.]) 11.841058440667993
+tensor(1144.2053, device='cuda:0') tensor([ 1.0000, 10.0000,  1.0000,  2.0000,  1.0000,  8.0000,  1.0000,  1.0000,
+         1.0000,  1.0000,  1.0000,  6.0000,  0.5400,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,  0.0000,
+         0.0000,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor([ 1.0000, 10.0000,  1.0000,  5.0000,  1.0000,  3.0000,  1.0000,  1.0000,
+         1.0000,  5.0000,  1.0000,  4.0000,  0.1531,  1.0000, 10.0000,  0.4252,
+         1.0000, 10.0000,  0.4724,  1.0000,  3.0000,  0.1771,  1.0000,  3.0000,
+         0.2700,  0.0000,  0.0000,  0.0000], device='cuda:0') tensor(1, device='cuda:0') tensor(1, device='cuda:0') tensor(1.4266, device='cuda:0') tensor([7.2571, 7.5328], device='cuda:0', grad_fn=<ViewBackward0>) tensor([4.5471, 4.8048], device='cuda:0', grad_fn=<ViewBackward0>)
