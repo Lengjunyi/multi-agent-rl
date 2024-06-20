@@ -1,0 +1,38 @@
+we got 2818.35986328125 total reward
+actions [tensor([0], device='cuda:0'), tensor([1], device='cuda:0'), tensor([2], device='cuda:0'), tensor([1], device='cuda:0')] 0.0
+we got 2908.21484375 total reward
+actions [tensor([0], device='cuda:0'), tensor([3], device='cuda:0'), tensor([2], device='cuda:0'), tensor([1], device='cuda:0')] 0.0
+we got 2884.386962890625 total reward
+actions [tensor([2], device='cuda:0'), tensor([2], device='cuda:0'), tensor([2], device='cuda:0'), tensor([1], device='cuda:0')] 0.0
+we got 2934.204345703125 total reward
+actions [tensor([1], device='cuda:0'), tensor([1], device='cuda:0'), tensor([1], device='cuda:0'), tensor([1], device='cuda:0')] 0.0
+we got 2924.382568359375 total reward
+actions [tensor([0], device='cuda:0'), tensor([1], device='cuda:0'), tensor([3], device='cuda:0'), tensor([3], device='cuda:0')] 0.0
+we got 2960.032470703125 total reward
+actions [tensor([0], device='cuda:0'), tensor([1], device='cuda:0'), tensor([2], device='cuda:0'), tensor([3], device='cuda:0')] 0.0
+we got 3034.024169921875 total reward
+actions [tensor([0], device='cuda:0'), tensor([3], device='cuda:0'), tensor([3], device='cuda:0'), tensor([3], device='cuda:0')] 0.0
+we got 2972.103759765625 total reward
+actions [tensor([2], device='cuda:0'), tensor([1], device='cuda:0'), tensor([2], device='cuda:0'), tensor([2], device='cuda:0')] 0.0
+we got 3017.519775390625 total reward
+actions [tensor([0], device='cuda:0'), tensor([1], device='cuda:0'), tensor([0], device='cuda:0'), tensor([3], device='cuda:0')] 0.0
+we got 2949.41748046875 total reward
+actions [tensor([0], device='cuda:0'), tensor([1], device='cuda:0'), tensor([2], device='cuda:0'), tensor([3], device='cuda:0')] 0.0
+we got 2980.632080078125 total reward
+actions [tensor([0], device='cuda:0'), tensor([1], device='cuda:0'), tensor([0], device='cuda:0'), tensor([3], device='cuda:0')] 0.0
+we got 3090.104736328125 total reward
+actions [tensor([2], device='cuda:0'), tensor([2], device='cuda:0'), tensor([2], device='cuda:0'), tensor([2], device='cuda:0')] 0.0
+we got 2946.904541015625 total reward
+actions [tensor([0], device='cuda:0'), tensor([0], device='cuda:0'), tensor([2], device='cuda:0'), tensor([0], device='cuda:0')] 0.0
+we got 2993.47412109375 total reward
+actions [tensor([0], device='cuda:0'), tensor([1], device='cuda:0'), tensor([1], device='cuda:0'), tensor([3], device='cuda:0')] 0.0
+we got 2997.1982421875 total reward
+actions [tensor([1], device='cuda:0'), tensor([1], device='cuda:0'), tensor([1], device='cuda:0'), tensor([1], device='cuda:0')] 0.0
+we got 3042.370849609375 total reward
+actions [tensor([1], device='cuda:0'), tensor([1], device='cuda:0'), tensor([2], device='cuda:0'), tensor([3], device='cuda:0')] 0.0
+we got 2951.72216796875 total reward
+actions [tensor([0], device='cuda:0'), tensor([1], device='cuda:0'), tensor([2], device='cuda:0'), tensor([2], device='cuda:0')] 0.0
+we got 3056.03759765625 total reward
+actions [tensor([1], device='cuda:0'), tensor([1], device='cuda:0'), tensor([2], device='cuda:0'), tensor([3], device='cuda:0')] 0.0
+we got 2978.62255859375 total reward
+actions [tensor([0], device='cuda:0'), tensor([1], device='cuda:0'), tensor([1], device='cuda:0'), tensor([1], device='cuda:0')] 0.0
